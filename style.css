@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.section1{
+    padding: 0 100px;
+}
+.off-img{
+    margin-top: 15px;
+}
+.color{
+    color: gray;
+}
+.dleft{
+    width: 50%;
+}
+.background{
+    background-color: #62C4A4;
+    border-radius: 10px;
+    padding: 30px;
+    width: 70%;
+}
+.background2{
+    background-color: #26735A;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 70px;
+}
+.offerpedia{
+    margin-top: 80px;
+}
+.start{
+    margin-top: 190px;
+}
+
+.icons{
+    margin-top: 70px;
+}
+.form-sec{
+    margin-top: 150px;
+}
+.welcm{
+    margin-top: 150px;
+}
