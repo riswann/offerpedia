@@ -2,6 +2,16 @@
     margin: 0px;
     padding: 0px;
 }
+.body{
+    background-color: black;
+}
+.sign-up{
+    border-radius: 10px;
+    padding: 6px;
+    background: #26735A;
+    color: white;
+    width: 128%;
+}
 .section1{
     padding: 0 100px;
 }
@@ -19,12 +29,14 @@
     border-radius: 10px;
     padding: 30px;
     width: 70%;
+    height: 105%;
 }
 .background2{
     background-color: #26735A;
-    border-radius: 10px;
-    padding: 20px;
+    border-radius: 13px;
+    padding: 18px;
     margin-top: 70px;
+   
 }
 .offerpedia{
     margin-top: 80px;
@@ -41,4 +53,25 @@
 }
 .welcm{
     margin-top: 150px;
+}
+.log{
+    text-decoration: none;
+}
+.btr-str{
+    padding: 13px;
+    border-radius: 30px;
+    width: 17%;
+    background: #62C4A4;
+    color: #F4F8F7;
+}
+
+.left{
+    margin-top: 296px;
+}
+.left2{
+    margin-top: 300px;
+}
+
+.left3{
+    margin-top: 200px
 }
